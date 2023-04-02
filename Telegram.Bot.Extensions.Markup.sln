@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33513.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Telegram.Bot.Extensions.Markup", "src\Telegram.Bot.Extensions.Markup\Telegram.Bot.Extensions.Markup.csproj", "{8EEB67A3-305A-4A26-A100-85975B32D8E6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarkupTests", "tests\MarkupTests\MarkupTests.csproj", "{6BE21F92-5A6B-4A28-A038-8B39742BD742}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E2B7437A-D052-4408-837B-574AD349462A}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		Directory.Build.props = Directory.Build.props
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EEB67A3-305A-4A26-A100-85975B32D8E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EEB67A3-305A-4A26-A100-85975B32D8E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EEB67A3-305A-4A26-A100-85975B32D8E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EEB67A3-305A-4A26-A100-85975B32D8E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BE21F92-5A6B-4A28-A038-8B39742BD742}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BE21F92-5A6B-4A28-A038-8B39742BD742}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BE21F92-5A6B-4A28-A038-8B39742BD742}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BE21F92-5A6B-4A28-A038-8B39742BD742}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B347CA6-21D5-42E5-AD47-073C61956718}
+	EndGlobalSection
+EndGlobal
