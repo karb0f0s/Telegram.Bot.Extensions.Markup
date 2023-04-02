@@ -16,6 +16,9 @@
     <PackageIcon>icon.png</PackageIcon>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
     <PackageReadmeFile>README.md</PackageReadmeFile>
+
+    <Description>Telegram Bot API Markup Extensions</Description>
+    <PackageTags>Telegram, Bot, Markup</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
