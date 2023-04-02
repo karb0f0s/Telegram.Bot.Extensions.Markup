@@ -43,6 +43,12 @@ caption using `ParseMode.MarkdownV2`.
 
 ## Installation
 
+Add package to your project with command:
+
+```shell
+dotnet add package Telegram.Bot.Extensions.Markup
+```
+
 ## Credits
 
 This library is a .NET implementation of [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot).
