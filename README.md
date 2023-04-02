@@ -1,7 +1,7 @@
 # Telegram Bot Markup Extensions
 
-[![package](https://img.shields.io/nuget/vpre/Telegram.Bot.Extensions.Markup.svg?label=Telegram.Bot.Extensions.Markup&style=flat-square)](https://www.nuget.org/packages/karb0f0s)
-[![downloads](https://img.shields.io/nuget/dt/Telegram.Bot.Extensions.Markup.svg?style=flat-square&label=Package%20Downloads)](https://www.nuget.org/packages/Telegram.Bot)
+[![package](https://img.shields.io/nuget/vpre/Telegram.Bot.Extensions.Markup.svg?label=nuget&style=flat-square)](https://www.nuget.org/packages/Telegram.Bot.Extensions.Markup)
+[![downloads](https://img.shields.io/nuget/dt/Telegram.Bot.Extensions.Markup.svg?style=flat-square&label=Package%20Downloads)](https://www.nuget.org/packages/Telegram.Bot.Extensions.Markup)
 [![contributors](https://img.shields.io/github/contributors/karb0f0s/Telegram.Bot.Extensions.Markup.svg?style=flat-square&label=Contributors)](https://github.com/karb0f0s/Telegram.Bot.Extensions.Markup/graphs/contributors)
 [![license](https://img.shields.io/github/license/karb0f0s/Telegram.Bot.Extensions.Markup.svg?style=flat-square&maxAge=2592000&label=License)](https://raw.githubusercontent.com/karb0f0s/Telegram.Bot.Extensions.Markup/master/LICENSE)
 [![telegram chat](https://img.shields.io/badge/Support_Chat-Telegram-blue.svg?style=flat-square)](https://t.me/joinchat/B35YY0QbLfd034CFnvCtCA)
