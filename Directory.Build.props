@@ -16,7 +16,7 @@
   </PropertyGroup>
 
   <ItemGroup Label="Dev">
-    <PackageReference Include="Meziantou.Analyzer" Version="2.0.60" PrivateAssets="all" />
+    <PackageReference Include="Meziantou.Analyzer" Version="2.0.61" PrivateAssets="all" />
   </ItemGroup>
 
   <ItemGroup>
