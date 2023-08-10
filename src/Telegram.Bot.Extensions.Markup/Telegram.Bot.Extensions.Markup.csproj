@@ -5,6 +5,8 @@
   </ItemGroup>
 
   <PropertyGroup Label="Package">
+    <PackageVersion>1.0.1</PackageVersion>
+
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <GenerateDocumentationFile>True</GenerateDocumentationFile>
 
@@ -16,12 +18,15 @@
     <PackageIcon>icon.png</PackageIcon>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
     <PackageReadmeFile>README.md</PackageReadmeFile>
+
+    <Description>Telegram Bot API Markup Extensions</Description>
+    <PackageTags>Telegram, Bot, Markup</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include="../../icon.png" Pack="true" PackagePath="" />
-    <None Include="../../LICENSE" Pack="true" PackagePath="" />
-    <None Include="../../README.md" Pack="true" PackagePath="" />
+    <None Include="..\..\icon.png" Pack="true" PackagePath="" />
+    <None Include="..\..\LICENSE" Pack="true" PackagePath="" />
+    <None Include="..\..\README.md" Pack="true" PackagePath="" />
   </ItemGroup>
 
   <ItemGroup Label="Dev">
