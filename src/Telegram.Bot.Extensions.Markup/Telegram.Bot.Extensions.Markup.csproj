@@ -1,11 +1,11 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <PackageReference Include="Telegram.Bot" Version="18.0" />
+    <PackageReference Include="Telegram.Bot" Version="[18.0,)" />
   </ItemGroup>
 
   <PropertyGroup Label="Package">
-    <PackageVersion>1.0.1</PackageVersion>
+    <PackageVersion>1.0.2</PackageVersion>
 
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <GenerateDocumentationFile>True</GenerateDocumentationFile>
