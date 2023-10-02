@@ -10,13 +10,13 @@
     <AnalysisLevel>latest</AnalysisLevel>
     <EnableNETAnalyzers>true</EnableNETAnalyzers>
     <AnalysisMode>AllEnabledByDefault</AnalysisMode>
-    <NoWarn>$(NoWarn);CA1014</NoWarn>
+    <NoWarn>$(NoWarn);CA1014;MA0048</NoWarn>
     <TreatWarningsAsErrors Condition="'$(Configuration)' != 'Debug'">true</TreatWarningsAsErrors>
     <EnforceExtendedAnalyzerRules>true</EnforceExtendedAnalyzerRules>
   </PropertyGroup>
 
   <ItemGroup Label="Dev">
-    <PackageReference Include="Meziantou.Analyzer" Version="2.0.85" PrivateAssets="all" />
+    <PackageReference Include="Meziantou.Analyzer" Version="2.0.91" PrivateAssets="all" />
   </ItemGroup>
 
   <ItemGroup>
